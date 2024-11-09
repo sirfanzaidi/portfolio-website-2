@@ -20,7 +20,7 @@ const Skills = () => {
               <li><h1 className="text-2xl text-white">Graphic Designer, Jaraim International (2003) -</h1></li>
               <li className="text-yellow-300">Developed creative graphic
             designs for diverse projects using Adobe Photoshop and Corel Draw
-            Let me know if you'd like me to help with anything else!</li>
+            Let me know if you would like me to help with anything else!</li>
             </ul>
            </div>
            </div>
